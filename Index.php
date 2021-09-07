@@ -1,6 +1,6 @@
 <?PHP
 
-	echo "Ola mundo 123"
-	echo "Ola Hcode"
+	echo "Ola mundo 123";
+	echo "Ola Hcode";
 
 ?>
